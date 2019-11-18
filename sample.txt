@@ -1,5 +1,0 @@
-rm -rf sdajkasjdasjd 
-rm -rf ldasjdjasjidjsa
-rm -rf daosidjasiodjasoidj
-rm -rf dasijdasiojdass
-rm -rf 
